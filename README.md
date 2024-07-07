@@ -2,6 +2,8 @@
 
 This project is a simple web-based calculator built using PHP and HTML. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. This README file will guide you through the structure and usage of the code.
 
+![image](./screenshots/ss.png)
+
 ## Table of Contents
 
 1. [Installation](#installation)
