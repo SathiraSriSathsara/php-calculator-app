@@ -27,7 +27,7 @@ This project is a simple web-based calculator built using PHP and HTML. It allow
    - Open the control panel for your server solution and start the Apache server.
 
 4. **Access the Calculator:**
-   - Open your web browser and navigate to `http://localhost/php-calculator` (assuming the folder is named `php-calculator`).
+   - Open your web browser and navigate to `http://localhost/php-calculator-app` (assuming the folder is named `php-calculator-app`).
 
 ## Usage
 
